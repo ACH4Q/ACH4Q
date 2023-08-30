@@ -1,4 +1,4 @@
-<h2 align="left">Hello Friend 👋! I'm ACH4Q and im script kiddie and IT student</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=80&color=13F700&background=110CFF00&vCenter=true&multiline=true&width=435&lines=Hello+Friend+!;Do+Not+Panic;root%E3%89%BFkali)-%5B~%5D+;%23++cat+flag.txt;ACH4Q+is+here+!" alt="Typing SVG" /></a>
 
 ###
 
