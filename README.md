@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=80&color=13F700&background=110CFF00&vCenter=true&multiline=true&width=435&lines=Hello+Friend+!;Do+Not+Panic;root%E3%89%BFkali)-%5B~%5D+;%23++cat+flag.txt;ACH4Q+is+here+!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1800&pause=80&color=2600F7&background=110CFF00&vCenter=true&multiline=true&height=135&lines=Hello+Friend+!;Do+Not+Panic;root%E3%89%BFkali)-%5B~%5D+;%23++cat+flag.txt;ACH4Q+is+here+!!!" alt="Typing SVG" /></a>
 ###
 
 <div align="center">
@@ -9,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/fr/view/hacker-gif-5724311"  />
+<div class="tenor-gif-embed" data-postid="5724311" data-share-method="host" data-aspect-ratio="1.12778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-5724311">Hacker GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
