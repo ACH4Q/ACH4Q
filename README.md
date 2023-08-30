@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ACH4Q/ACH4Q/output/snake.svg" alt="Snake animation" />
+
 
 ###
