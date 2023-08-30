@@ -8,9 +8,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="5724311" data-share-method="host" data-aspect-ratio="1.12778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-5724311">Hacker GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
+<div class="tenor-gif-embed" data-postid="5724311" data-share-method="host" data-aspect-ratio="1.12778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-5724311"> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
