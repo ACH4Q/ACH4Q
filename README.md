@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1800&pause=80&color=2600F7&background=110CFF00&vCenter=true&multiline=true&height=135&lines=Hello+Friend+!;Do+Not+Panic;root%E3%89%BFkali)-%5B~%5D+;%23++cat+flag.txt;ACH4Q+is+here+!!!" alt="Typing SVG" /></a>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ACH4Q&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ACH4Q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0F0F&width=435&lines=My+skills+!!!" alt="Typing SVG" /></a>
-###
+
 
 
 
