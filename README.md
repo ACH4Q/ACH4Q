@@ -31,7 +31,7 @@
 
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0702FF&width=435&lines=welcome+to+my+badges+!!!!!" alt="Typing SVG" /></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/X3.A.png" alt="TryHackMe">
+[![machaq's 42 stats](https://badge.mediaplus.ma/water/machaq)](https://github.com/oakoudad/badge42)
 <br clear="both">
 
 
